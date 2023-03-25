@@ -7,7 +7,7 @@ export const weatherConditions = {
   },
   Clear: {
     color: '#f7b733',
-    title: 'Sun',
+    title: 'Sunny',
     subtitle: 'Always bright and warm',
     icon: 'white-balance-sunny'
   },
